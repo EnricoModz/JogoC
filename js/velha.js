@@ -99,7 +99,7 @@ function recomeca(){
                 verifica(index);
             }
         }(i);
-        document.getElementById("img"+i).src = "./img/logoMinecraftPoggers.png";
+        document.getElementById("img"+i).src = "./img/logo.jfif";
         casas[i] = 9;
     }
 
